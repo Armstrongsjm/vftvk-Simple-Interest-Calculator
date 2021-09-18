@@ -29,6 +29,12 @@ h1
 }
 
 footer{
-    margin-left:auto;
-    margin-right:auto;
+   background-color:white;
+    font-family: Arial
+}
+
+.foot
+{
+    padding:25px;
+    margin:auto;
 }
